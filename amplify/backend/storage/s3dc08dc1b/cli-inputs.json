@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3dc08dc1b",
+  "policyUUID": "dc08dc1b",
+  "bucketName": "dropbox58cfaa554e7b4653b2655c8d23122168",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
