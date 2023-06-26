@@ -1,3 +1,4 @@
+import '@aws-amplify/ui-react/styles.css';
 import React, { useState } from 'react';
 import { Amplify, Storage } from 'aws-amplify';
 import awsExports from './aws-exports';
